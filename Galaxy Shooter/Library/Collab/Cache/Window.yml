@@ -14,16 +14,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/2D Galaxy Assets/Prefabs/Enemy.prefab
+    - Assets/2D Galaxy Assets/Prefabs/Enemy.prefab.meta
+    - Assets/2D Galaxy Assets/Prefabs/Speed_Powerup.prefab
+    - Assets/2D Galaxy Assets/Prefabs/Speed_Powerup.prefab.meta
     - Assets/2D Galaxy Assets/Prefabs/Triple Shot.prefab
     - Assets/2D Galaxy Assets/Prefabs/Triple Shot.prefab.meta
+    - Assets/2D Galaxy Assets/Prefabs/Triple_Shot_Powerup.prefab
+    - Assets/2D Galaxy Assets/Prefabs/Triple_Shot_Powerup.prefab.meta
+    - Assets/2D Galaxy Assets/Prefabs/laser .prefab
+    - Assets/2D Galaxy Assets/Scripts/EnemyAI.cs
+    - Assets/2D Galaxy Assets/Scripts/EnemyAI.cs.meta
     - Assets/2D Galaxy Assets/Scripts/Player.cs
     - Assets/2D Galaxy Assets/Scripts/Powerup.cs
     - Assets/2D Galaxy Assets/Scripts/Powerup.cs.meta
     - Assets/Game.unity
     - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/TagManager.asset
     - 
-    m_Values: 0101010101010101
-  RevisionSummary: PowerUp
+    m_Values: 000000000000000000000000000000000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
